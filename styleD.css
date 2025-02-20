@@ -8,3 +8,4 @@ table {border-collapse: collapse;}
 th, td {border: 1px solid black; padding: 8px; font-weight: normal;}
 caption {padding: 8px; font-weight:normal;} 
 .center {display: block; margin-left: auto; margin-right: auto; width: 50%;}
+.dark-mode {background-color: black; color: white;}
